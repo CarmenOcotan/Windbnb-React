@@ -22,7 +22,7 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS --> 
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](../Mini-proyecto-react/src/assets/scrip.jpg)
+![screenshot](./src/assets/scrip.jpg)
 
 
 
